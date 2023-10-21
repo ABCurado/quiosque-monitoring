@@ -18,6 +18,6 @@ sites:
     editors:
       - html_prettify
 
-  - url: https://www.lisboa.pt/agenda/municipio
+  - url: https://www.lisboa.pt/atualidade/noticias
     editors:
       - html_markdownify
