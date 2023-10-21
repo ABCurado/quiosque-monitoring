@@ -1,0 +1,23 @@
+---
+notification_template: |
+  {{#sites}}
+  - {{.}}
+  {{/sites}}
+
+  {{#commit}}
+  https://github.com/EdJoPaTo/website-stalker-example/commit/{{.}}
+  {{/commit}}
+
+sites:
+  # Basic example
+  - url: https://informacoeseservicos.lisboa.pt/servicos/detalhe/quiosques-atribuicao
+    editors:
+      - html_prettify
+
+  - url: https://www.lisboa.pt/agenda/municipio#concursos
+    editors:
+      - html_prettify
+
+  - url: https://www.lisboa.pt/agenda/municipio
+    editors:
+      - html_markdownify
