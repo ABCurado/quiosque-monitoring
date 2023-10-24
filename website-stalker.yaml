@@ -5,7 +5,7 @@ notification_template: |
   {{/sites}}
 
   {{#commit}}
-  https://github.com/EdJoPaTo/website-stalker-example/commit/{{.}}
+  https://github.com/ABCurado/quiosque-monitoring/commit/{{.}}
   {{/commit}}
 
 sites:
