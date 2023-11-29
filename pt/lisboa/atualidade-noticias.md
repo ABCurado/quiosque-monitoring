@@ -10,6 +10,8 @@ Notícias - MUNICÍPIO de LISBOA  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({
 * [Revelar](https://revelar.lisboa.pt/)
 * [loja lisboa](https://www.lojalisboa.pt/)
 
+[Aviso de mau tempo](https://www.lisboa.pt/atualidade/noticias/detalhe/aviso-amarelo-chuva-em-lisboa/)
+
 [<img alt="site lisboa" src="/typo3conf/ext/site_lisboa/Resources/Public/Images/logo.svg" height="52" width="192" />](/)
 
 * [Cidade](/cidade)
