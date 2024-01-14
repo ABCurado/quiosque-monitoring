@@ -10,6 +10,8 @@ Notícias - MUNICÍPIO de LISBOA  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({
 * [Revelar](https://revelar.lisboa.pt/)
 * [loja lisboa](https://www.lojalisboa.pt/)
 
+[Aviso de mau tempo](https://www.lisboa.pt/atualidade/noticias/detalhe/previsao-de-chuva-intensa-em-lisboa-aviso-amarelo/)
+
 [<img alt="site lisboa" src="/typo3conf/ext/site_lisboa/Resources/Public/Images/logo.svg" height="52" width="192" />](/)
 
 * [Cidade](/cidade)
@@ -44,7 +46,7 @@ Notícias - MUNICÍPIO de LISBOA  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({
   * [Freguesias](/municipio/freguesias)
   * [Relações Internacionais](/municipio/relacoes-internacionais)
 
-* [Pt](/atualidade/noticias)
+* [Pt](/atualidade/noticias?cat=mobilidade&cHash=4c740bd8eaa9b0a5d9961266de2fd0c4)
 * En
 * ES
 
