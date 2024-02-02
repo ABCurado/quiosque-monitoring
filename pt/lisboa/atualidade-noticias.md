@@ -15,7 +15,7 @@ Notícias - MUNICÍPIO de LISBOA  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({
 * [Cidade](/cidade)
   * [Ambiente](/cidade/ambiente/entrada)
   * [Bem-estar Animal](/cidade/bem-estar-animal/entrada)
-  * [Cultura](/cidade/cultura/entrada)
+  * [Cultura](/cidade/cultura/passe-cultura)
   * [Desporto](/cidade/desporto/entrada)
   * [Direitos Sociais](/cidade/direitos-sociais/entrada)
   * [Economia e Inovação](/cidade/economia-e-inovacao/entrada)
