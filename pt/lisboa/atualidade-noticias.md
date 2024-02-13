@@ -4,47 +4,47 @@ Notícias - MUNICÍPIO de LISBOA  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({
 
 [](#page-content)
 
-* [Cidadania](https://cidadania.lisboa.pt/?L=1)
-* [Informações e Serviços](https://informacoeseservicos.lisboa.pt/?L=1)
-* [Transparência](https://transparencia.lisboa.pt/?L=1)
-* [Revelar](https://revelar.lisboa.pt/?L=1)
+* [Cidadania](https://cidadania.lisboa.pt/)
+* [Informações e Serviços](https://informacoeseservicos.lisboa.pt/)
+* [Transparência](https://transparencia.lisboa.pt/)
+* [Revelar](https://revelar.lisboa.pt/)
 * [loja lisboa](https://www.lojalisboa.pt/)
 
-<img alt="site lisboa" src="/typo3conf/ext/site_lisboa/Resources/Public/Images/logo.svg" height="52" width="192" />
+[<img alt="site lisboa" src="/typo3conf/ext/site_lisboa/Resources/Public/Images/logo.svg" height="52" width="192" />](/)
 
-* [Cidade]()
-  * [Ambiente](/cidade/ambiente/entrada?L=1)
-  * [Bem-estar Animal](/cidade/bem-estar-animal/entrada?L=1)
-  * [Cultura](/cidade/cultura/entrada?L=1)
-  * [Desporto](/cidade/desporto/entrada?L=1)
-  * [Direitos Sociais](/cidade/direitos-sociais/entrada?L=1)
-  * [Economia e Inovação](/cidade/economia-e-inovacao/entrada?L=1)
-  * [Educação](/cidade/educacao/entrada?L=1)
-  * [Habitação](/cidade/habitacao/entrada?L=1)
-  * [Mobilidade](/cidade/mobilidade/entrada?L=1)
-  * [Segurança e Prevenção](/cidade/seguranca-e-prevencao/entrada?L=1)
-  * [Urbanismo](/cidade/urbanismo/entrada?L=1)
+* [Cidade](/cidade)
+  * [Ambiente](/cidade/ambiente/entrada)
+  * [Bem-estar Animal](/cidade/bem-estar-animal/entrada)
+  * [Cultura](/cidade/cultura/entrada)
+  * [Desporto](/cidade/desporto/entrada)
+  * [Direitos Sociais](/cidade/direitos-sociais/entrada)
+  * [Economia e Inovação](/cidade/economia-e-inovacao/entrada)
+  * [Educação](/cidade/educacao/entrada)
+  * [Habitação](/cidade/habitacao/entrada)
+  * [Mobilidade](/cidade/mobilidade/entrada)
+  * [Segurança e Prevenção](/cidade/seguranca-e-prevencao/entrada)
+  * [Urbanismo](/cidade/urbanismo/entrada)
 
-* [Atualidade](/atualidade/noticias?L=1)
-  * [Notícias (current)]()
-  * [Publicações Periódicas]()
-  * [Reportagens](/en/atualidade/reports)
-  * [Dossiês Temáticos]()
+* [Atualidade](/atualidade/noticias)
+  * [Notícias (current)](/atualidade/noticias)
+  * [Publicações Periódicas](/atualidade/publicacoes-periodicas)
+  * [Reportagens](/atualidade/reportagens)
+  * [Dossiês Temáticos](/atualidade/dossies-tematicos)
 
-* [Agenda](/agenda/o-que-fazer?L=1)
-  * [O que fazer]()
-  * [Município]()
+* [Agenda](/agenda/o-que-fazer)
+  * [O que fazer](/agenda/o-que-fazer)
+  * [Município](/agenda/municipio)
 
-* [Município](/municipio/entrada?L=1)
-  * [Entrada](/en/municipio/home)
-  * [Câmara Municipal](/en/municipio/city-council)
-  * [Presidente](/en/municipio/president)
-  * [Organização Municipal]()
-  * [Assembleia Municipal](/en/municipio/the-municipal-assembly)
-  * [Freguesias](/en/municipio/parishes)
-  * [Relações Internacionais](/en/municipio/international-relations)
+* [Município](/municipio/entrada)
+  * [Entrada](/municipio/entrada)
+  * [Câmara Municipal](/municipio/camara-municipal)
+  * [Presidente](/municipio/presidente)
+  * [Organização Municipal](/municipio/organizacao-municipal)
+  * [Assembleia Municipal](/municipio/assembleia-municipal)
+  * [Freguesias](/municipio/freguesias)
+  * [Relações Internacionais](/municipio/relacoes-internacionais)
 
-* [Pt](/atualidade/noticias?L=1)
+* [Pt](/atualidade/noticias)
 * En
 * ES
 
@@ -55,7 +55,7 @@ Notícias - MUNICÍPIO de LISBOA  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({
  Notícias
 ==========
 
-Arquivo de notícias
+[Arquivo de notícias](/atualidade/noticias/arquivo)
 
 Selecionar filtro
 
@@ -81,22 +81,22 @@ var page\_number; $(function () { $('[data-toggle="tooltip"]').tooltip()
 * Sobre Nós
   ----------
 
-  * [Aplicações móveis]()
-  * [Município](/municipio/entrada?L=1)
-  * [Recrutamento](/municipio/organizacao-municipal/recursos-humanos/recrutamento-e-mobilidade?L=1)
+  * [Aplicações móveis](/sobre-nos/aplicacoes-moveis)
+  * [Município](/municipio/entrada)
+  * [Recrutamento](/municipio/organizacao-municipal/recursos-humanos/recrutamento-e-mobilidade)
 
 * Comunicação
   ----------
 
   * [Anúncios, Avisos e Editais](https://informacoeseservicos.lisboa.pt/informacao-administrativa/publicacoes-e-notificacoes?category=9&cPage=1)
   * [Boletim Municipal](https://informacoeseservicos.lisboa.pt/informacao-administrativa/boletim-municipal)
-  * [Identidade Gráfica](/municipio/camara-municipal/identidade-grafica?L=1)
-  * [Publicações](/atualidade/publicacoes-periodicas?L=1)
+  * [Identidade Gráfica](/municipio/camara-municipal/identidade-grafica)
+  * [Publicações](/atualidade/publicacoes-periodicas)
 
 * Acesso Rápido
   ----------
 
-  * [Agenda Municipal](/agenda/municipio?L=1)
+  * [Agenda Municipal](/agenda/municipio)
   * [Diretório da Cidade](https://informacoeseservicos.lisboa.pt/contactos/diretorio-da-cidade)
   * [Documentação](https://informacoeseservicos.lisboa.pt/informacao-administrativa/publicacoes-e-notificacoes)
   * [Projetos cofinanciados](https://informacoeseservicos.lisboa.pt/informacao-administrativa/projetos-cofinanciados)
@@ -109,7 +109,7 @@ Contactos
 
 [Lojas de Atendimento](https://informacoeseservicos.lisboa.pt/contactos/diretorio-da-cidade/cat/atendimento)
 
-Contacte-nos
+[Contacte-nos](https://informacoeseservicos.lisboa.pt/contactos/contacte-nos)
 
 [Atendimento em Língua Gestual Portuguesa (LGP)](https://informacoeseservicos.lisboa.pt/atendimento-em-lingua-gestual-portuguesa)
 
@@ -128,4 +128,4 @@ Redes sociais:
 [](#top)
 
 /\*\<![CDATA[\*/
-/\*TS\_inlineFooter\*/ var typeOfSlickUids = typeof slickUids; if( typeOfSlickUids != 'undefined' ) { if(Array.isArray(slickUids)){ $(document).ready(function () { for (var i = 0; i \< slickUids.length; i++) { var boolSlickRandomizeX = eval("boolSlickRandomize" + slickUids[i]); //alert(boolSlickRandomizeX); if( boolSlickRandomizeX == true ) { $('#slickid-' + slickUids[i]).randomize(); } } }); } } $(document).ready(function () { if( (typeof obj === "object") && (obj !== null) ) { var sortedKeys = Object.keys(obj).sort(); //alert( sortedKeys[0] ); if(Array.isArray(sortedKeys)){ for (var i = 0; i \< sortedKeys.length; i++) { obj[sortedKeys[i]](); } } } }); jQuery( document ).ready(function() { jQuery('.youtubeVideo').each(function() { if (jQuery(this).width() \< 600){ jQuery(this).addClass( 'small' ); } else{ jQuery(this).removeClass('small') } }); }); jQuery(window).resize(function(){ jQuery('.youtubeVideo').each(function() { if (jQuery(this).width() \< 600){ jQuery(this).addClass( 'small' ); } else{ jQuery(this).removeClass('small') } }); }); /\*]]\>\*/var klaroConfig = {"acceptAll":true,"additionalClass":"","cookieDomain":"","cookieExpiresAfterDays":"365","default":false,"elementID":"klaro","groupByPurpose":true,"hideDeclineAll":false,"hideLearnMore":false,"htmlTexts":true,"lang":"en","mustConsent":false,"poweredBy":"https:\\/\\/consent.websedit.de","privacyPolicy":"https:\\/\\/www.lisboa.pt\\/en\\/cookie-policy","storageMethod":"cookie","storageName":"klaro","stylePrefix":"klaro we\_cookie\_consent notice--center","testing":false,"translations":{"en":{"consentModal":{"title":"As suas prefer\\u00eancias de privacidade","description":"Qualquer website que visite pode armazenar ou recolher informa\\u00e7\\u00f5es no seu navegador, principalmente na forma de cookies.\\n\\nEsta informa\\u00e7\\u00e3o pode ser sobre si, as suas prefer\\u00eancias, o seu dispositivo ou utilizada para assegurar que o website funciona como previsto. Normalmente a informa\\u00e7\\u00e3o n\\u00e3o identifica diretamente, mas pode proporcionar-lhe uma experi\\u00eancia mais personalizada no website. Pode decidir n\\u00e3o permitir certos tipos de cookies.\\n\\nClique nos diferentes t\\u00edtulos de categorias para saber mais e para alterar as nossas configura\\u00e7\\u00f5es predefinidas. No entanto, saiba que bloquear certos tipos de cookies poder\\u00e1 ter impacto na sua experi\\u00eancia no website e nos servi\\u00e7os que lhe podemos oferecer. \\n"},"privacyPolicy":{"text":"Informa\\u00e7\\u00f5es detalhadas e como pode revogar o seu consentimento a qualquer momento podem ser encontradas na nossa {privacyPolicy}.","name":"Pol\\u00edtica de Cookies"},"consentNotice":{"description":"Utilizamos cookies essenciais ao funcionamento do website que s\\u00e3o autorizados ao iniciar a navega\\u00e7\\u00e3o.\\n\\nCaso n\\u00e3o concorde com a utiliza\\u00e7\\u00e3o de outros cookies, pode alterar a sua configura\\u00e7\\u00e3o e rejeit\\u00e1-los clicando em 'Configura\\u00e7\\u00f5es de Cookies'.\\n\\nSalienta-se que, ao utilizar este sistema, a passagem de consentimento para n\\u00e3o-consentimento n\\u00e3o tem efeito retroactivo, ou seja, n\\u00e3o elimina cookies previamente instalados no dispositivo do Utilizador. Para esse efeito, o Utilizador deve eliminar os cookies atrav\\u00e9s do seu navegador. Para ver como se faz ou saber mais sobre os cookies que usamos, consulte a nossa \\u003Ca href=\\"https:\\/\\/www.lisboa.pt\\/en\\/cookie-policy\\"\\u003EPol\\u00edtica de Cookies\\u003C\\/a\\u003E.","changeDescription":"Desde a sua \\u00faltima visita, ocorreram altera\\u00e7\\u00f5es nas configura\\u00e7\\u00f5es de privacidade. Por favor, atualize suas configura\\u00e7\\u00f5es.","learnMore":"Configura\\u00e7\\u00f5es de Cookies"},"contextualConsent":{"acceptOnce":"Sim","acceptAlways":"Sempre","description":"Do you want to load external content supplied by {title}?"},"service":{"disableAll":{"title":"Aceitar todos","description":"Tem o direito de revogar o seu consentimento a qualquer momento, individualmente ou em sua totalidade. Se os consentimentos para o processamento de dados forem revogados, os dados que foram legalmente coletados at\\u00e9 a revoga\\u00e7\\u00e3o ainda podem ser processados \\u200b\\u200bpelo provedor."},"optOut":{"title":"(Opt-Out)","description":"This application is loaded by default (but you can disable it)"},"required":{"title":"(essenciais)","description":"This application is always required"},"purpose":"Finalidade","purposes":"Finalidade"},"purposes":{"unknown":"Interno"},"ok":"Aceitar","save":"Guardar defini\\u00e7\\u00f5es","acceptAll":"Aceitar todos","acceptSelected":"Aceitar sele\\u00e7\\u00e3o","decline":"Rejeitar","close":"Fechar","poweredBy":"Provided by websedit"}},"services":[],"purposeOrder":["unknown"]} klaroConfig.services.push({ name: 'other-15', title: 'Cookies de terceiros', description: 'Algumas das nossas páginas incluem conteúdos de sítios externos.', default: false, defaultIfNoConsent: true, required: false, optOut: false, translations: {'en':{'title':'Cookies de terceiros'}}, purposes: ['unknown'], cookies: [['AWSALB', '/', ''], ['AWSALBCORS', '/', '']], callback: ConsentApp.consentChanged, ownCallback:'', gtm:{trigger:'',variable:''} }); klaroConfig.services.push({ name: 'other-14', title: 'Cookies estritamente necessários', description: 'Estes cookies asseguram o bom funcionamento do website, dos serviços e das diferentes ferramentas disponibilizadas no mesmo.', default: true, defaultIfNoConsent: true, required: true, optOut: false, translations: {'en':{'title':'Cookies estritamente necessários'}}, purposes: ['unknown'], cookies: [['klaro', '/', ''], ['fe\_typo\_user', '/', '']], callback: ConsentApp.consentChanged, ownCallback:'', gtm:{trigger:'',variable:''} }); klaroConfig.services.push({ name: 'google-tagmanager-13', title: 'Cookies de funcionalidade e análise', description: 'Estes cookies permitem analisar os seus hábitos de navegação de forma a melhorar o funcionamento do website.', default: false, defaultIfNoConsent: true, required: false, optOut: false, translations: {'en':{'title':'Cookies de funcionalidade e análise'}}, purposes: ['unknown'], cookies: [['\_ga', '/', ''], ['\_gat', '/', ''], ['\_gid', '/', '']], callback: ConsentApp.consentChanged, ownCallback:'', gtm:{trigger:'',variable:''} });
+/\*TS\_inlineFooter\*/ var typeOfSlickUids = typeof slickUids; if( typeOfSlickUids != 'undefined' ) { if(Array.isArray(slickUids)){ $(document).ready(function () { for (var i = 0; i \< slickUids.length; i++) { var boolSlickRandomizeX = eval("boolSlickRandomize" + slickUids[i]); //alert(boolSlickRandomizeX); if( boolSlickRandomizeX == true ) { $('#slickid-' + slickUids[i]).randomize(); } } }); } } $(document).ready(function () { if( (typeof obj === "object") && (obj !== null) ) { var sortedKeys = Object.keys(obj).sort(); //alert( sortedKeys[0] ); if(Array.isArray(sortedKeys)){ for (var i = 0; i \< sortedKeys.length; i++) { obj[sortedKeys[i]](); } } } }); jQuery( document ).ready(function() { jQuery('.youtubeVideo').each(function() { if (jQuery(this).width() \< 600){ jQuery(this).addClass( 'small' ); } else{ jQuery(this).removeClass('small') } }); }); jQuery(window).resize(function(){ jQuery('.youtubeVideo').each(function() { if (jQuery(this).width() \< 600){ jQuery(this).addClass( 'small' ); } else{ jQuery(this).removeClass('small') } }); }); /\*]]\>\*/var klaroConfig = {"acceptAll":true,"additionalClass":"","cookieDomain":"","cookieExpiresAfterDays":"365","default":false,"elementID":"klaro","groupByPurpose":true,"hideDeclineAll":false,"hideLearnMore":false,"htmlTexts":true,"lang":"en","mustConsent":false,"poweredBy":"https:\\/\\/consent.websedit.de","privacyPolicy":"https:\\/\\/www.lisboa.pt\\/politica-de-cookies","storageMethod":"cookie","storageName":"klaro","stylePrefix":"klaro we\_cookie\_consent notice--center","testing":false,"translations":{"en":{"consentModal":{"title":"As suas prefer\\u00eancias de privacidade","description":"Qualquer website que visite pode armazenar ou recolher informa\\u00e7\\u00f5es no seu navegador, principalmente na forma de cookies.\\n\\nEsta informa\\u00e7\\u00e3o pode ser sobre si, as suas prefer\\u00eancias, o seu dispositivo ou utilizada para assegurar que o website funciona como previsto. Normalmente a informa\\u00e7\\u00e3o n\\u00e3o identifica diretamente, mas pode proporcionar-lhe uma experi\\u00eancia mais personalizada no website. Pode decidir n\\u00e3o permitir certos tipos de cookies.\\n\\nClique nos diferentes t\\u00edtulos de categorias para saber mais e para alterar as nossas configura\\u00e7\\u00f5es predefinidas. No entanto, saiba que bloquear certos tipos de cookies poder\\u00e1 ter impacto na sua experi\\u00eancia no website e nos servi\\u00e7os que lhe podemos oferecer. \\n"},"privacyPolicy":{"text":"Informa\\u00e7\\u00f5es detalhadas e como pode revogar o seu consentimento a qualquer momento podem ser encontradas na nossa {privacyPolicy}.","name":"Pol\\u00edtica de Cookies"},"consentNotice":{"description":"Utilizamos cookies essenciais ao funcionamento do website que s\\u00e3o autorizados ao iniciar a navega\\u00e7\\u00e3o.\\n\\nCaso n\\u00e3o concorde com a utiliza\\u00e7\\u00e3o de outros cookies, pode alterar a sua configura\\u00e7\\u00e3o e rejeit\\u00e1-los clicando em 'Configura\\u00e7\\u00f5es de Cookies'.\\n\\nSalienta-se que, ao utilizar este sistema, a passagem de consentimento para n\\u00e3o-consentimento n\\u00e3o tem efeito retroactivo, ou seja, n\\u00e3o elimina cookies previamente instalados no dispositivo do Utilizador. Para esse efeito, o Utilizador deve eliminar os cookies atrav\\u00e9s do seu navegador. Para ver como se faz ou saber mais sobre os cookies que usamos, consulte a nossa \\u003Ca href=\\"https:\\/\\/www.lisboa.pt\\/politica-de-cookies\\"\\u003EPol\\u00edtica de Cookies\\u003C\\/a\\u003E.","changeDescription":"Desde a sua \\u00faltima visita, ocorreram altera\\u00e7\\u00f5es nas configura\\u00e7\\u00f5es de privacidade. Por favor, atualize suas configura\\u00e7\\u00f5es.","learnMore":"Configura\\u00e7\\u00f5es de Cookies"},"contextualConsent":{"acceptOnce":"Sim","acceptAlways":"Sempre","description":"Do you want to load external content supplied by {title}?"},"service":{"disableAll":{"title":"Aceitar todos","description":"Tem o direito de revogar o seu consentimento a qualquer momento, individualmente ou em sua totalidade. Se os consentimentos para o processamento de dados forem revogados, os dados que foram legalmente coletados at\\u00e9 a revoga\\u00e7\\u00e3o ainda podem ser processados \\u200b\\u200bpelo provedor."},"optOut":{"title":"(Opt-Out)","description":"This application is loaded by default (but you can disable it)"},"required":{"title":"(essenciais)","description":"This application is always required"},"purpose":"Finalidade","purposes":"Finalidade"},"purposes":{"unknown":"Interno"},"ok":"Aceitar","save":"Guardar defini\\u00e7\\u00f5es","acceptAll":"Aceitar todos","acceptSelected":"Aceitar sele\\u00e7\\u00e3o","decline":"Rejeitar","close":"Fechar","poweredBy":"Provided by websedit"}},"services":[],"purposeOrder":["unknown"]} klaroConfig.services.push({ name: 'other-15', title: 'Cookies de terceiros', description: 'Algumas das nossas páginas incluem conteúdos de sítios externos.', default: false, defaultIfNoConsent: true, required: false, optOut: false, translations: {'en':{'title':'Cookies de terceiros'}}, purposes: ['unknown'], cookies: [['AWSALB', '/', ''], ['AWSALBCORS', '/', '']], callback: ConsentApp.consentChanged, ownCallback:'', gtm:{trigger:'',variable:''} }); klaroConfig.services.push({ name: 'other-14', title: 'Cookies estritamente necessários', description: 'Estes cookies asseguram o bom funcionamento do website, dos serviços e das diferentes ferramentas disponibilizadas no mesmo.', default: true, defaultIfNoConsent: true, required: true, optOut: false, translations: {'en':{'title':'Cookies estritamente necessários'}}, purposes: ['unknown'], cookies: [['klaro', '/', ''], ['fe\_typo\_user', '/', '']], callback: ConsentApp.consentChanged, ownCallback:'', gtm:{trigger:'',variable:''} }); klaroConfig.services.push({ name: 'google-tagmanager-13', title: 'Cookies de funcionalidade e análise', description: 'Estes cookies permitem analisar os seus hábitos de navegação de forma a melhorar o funcionamento do website.', default: false, defaultIfNoConsent: true, required: false, optOut: false, translations: {'en':{'title':'Cookies de funcionalidade e análise'}}, purposes: ['unknown'], cookies: [['\_ga', '/', ''], ['\_gat', '/', ''], ['\_gid', '/', '']], callback: ConsentApp.consentChanged, ownCallback:'', gtm:{trigger:'',variable:''} });
