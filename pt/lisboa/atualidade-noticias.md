@@ -44,7 +44,7 @@ Notícias - MUNICÍPIO de LISBOA  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({
   * [Freguesias](/municipio/freguesias)
   * [Relações Internacionais](/municipio/relacoes-internacionais)
 
-* [Pt](/atualidade/noticias?page=3&cHash=9186199d8fd7abdde6c9cb8e253c0912)
+* [Pt](/atualidade/noticias)
 * En
 * ES
 
