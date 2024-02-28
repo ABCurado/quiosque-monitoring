@@ -29,6 +29,7 @@ Notícias - MUNICÍPIO de LISBOA  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({
   * [Notícias (current)](/atualidade/noticias)
   * [Publicações Periódicas](/atualidade/publicacoes-periodicas)
   * [Reportagens](/atualidade/reportagens)
+  * [ElisabeteGomes](/atualidade/elisabetegomes)
   * [Dossiês Temáticos](/atualidade/dossies-tematicos)
 
 * [Agenda](/agenda/o-que-fazer)
