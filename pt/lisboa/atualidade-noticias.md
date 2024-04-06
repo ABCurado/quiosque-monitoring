@@ -44,7 +44,7 @@ Notícias - MUNICÍPIO de LISBOA  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({
   * [Freguesias](/municipio/freguesias)
   * [Relações Internacionais](/municipio/relacoes-internacionais)
 
-* [Pt](/atualidade/noticias?categoria=economia%2F%3Fpage%3D2&cHash=d874d86bc3513d2c74b946d82ccc894f)
+* [Pt](/atualidade/noticias)
 * En
 * ES
 
